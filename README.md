@@ -1,3 +1,3 @@
 # ai-sandbox
 
-Place to store WIP NLP,OCR,ML projects
+WIP: NLP, OCR, ML projects

@@ -2,4 +2,3 @@ python -v
 tensorflow -v
 pytorch -v
 keras -v
-huggingface model -v

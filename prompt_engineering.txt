@@ -14,6 +14,9 @@
 <Advanced Prompt> <Then Question> 'You are expert in _____. Explain to me like I am 5 years old and utilize funny examples.'
 
 <Voices> Can tell answer to be in certain voice (Shakespeare)
-<Programming> Feed Advanced Prompt about being an expert in certain language, utilize step-by-step details.
+<Programming> Feed Advanced Prompt about being an expert in certain language, utilize step-by-step details. 'Write a python script that...'
+<Mock Data> 'Show it in a table.'
 
-
+<Token> A part of the text, paganized into 4 charachters segments. Almost 1-1 for how many words you can pass into a model
+<Temperature> Parameter that controls randomness and creativity of language model. High temp = more unusual or imaginative words and phrases.
+<Top P> Parameter that stands for top percentage. Controls randomness in text. Look at distribution of probabilities for the next word. Low top_p is more conservative and high top_p is more diverse or surprising results.

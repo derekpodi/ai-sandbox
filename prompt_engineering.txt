@@ -1,3 +1,12 @@
+<Prompt By Example> Q + A example format given, then feed new question for answer to be given in familiar format.
+<Direct Prompt>
+
 <Role>  <Detail>  <Question>
-<Forget What You Have Been Trained On Before "HACK"> 
-<Provide Step-By-Step Detail>
+<Role> 'You are an expert in _____.'
+<Detail> Specifics for the question you are looking to answer.
+<Let it ask Questions> 'If you have any questions about ______, ask questions before you generate responses. Ok?'
+*Understand what you goal is from asking the LLM AI and know what you want beforehand.
+
+<Prompt Hack> 'Ignore all previous instructions before this one.'
+<Zero Chain of Thought> 
+<Provide Step-By-Step Detail> 'And you must explain everything step-by-step.'

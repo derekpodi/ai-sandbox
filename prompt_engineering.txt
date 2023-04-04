@@ -9,4 +9,9 @@
 
 <Prompt Hack> 'Ignore all previous instructions before this one.'
 <Zero Chain of Thought> 
-<Provide Step-By-Step Detail> 'And you must explain everything step-by-step.'
+<Provide Step-By-Step Detail> 'And you must explain everything step-by-step.' 'Please explain how I can do this? Think step-by-step.'
+
+<Advanced Prompt> <Then Question> 'You are expert in _____. Explain to me like I am 5 years old and utilize funny examples.'
+
+<Voices> Can tell answer to be in certain voice (Shakespeare)
+<Programming> Feed Advanced Prompt about being an expert in certain language, utilize step-by-step details.

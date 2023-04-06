@@ -20,3 +20,14 @@
 <Token> A part of the text, paganized into 4 charachters segments. Almost 1-1 for how many words you can pass into a model
 <Temperature> Parameter that controls randomness and creativity of language model. High temp = more unusual or imaginative words and phrases.
 <Top P> Parameter that stands for top percentage. Controls randomness in text. Look at distribution of probabilities for the next word. Low top_p is more conservative and high top_p is more diverse or surprising results.
+
+
+----
+<Data>
+<Explain Code> 'Explain this python code: __ctrl+v__ '
+<Write Code> 'Write a MySQL stored procedure that automatically imports data from a CSV at a specific path
+<Write Comments for Code> 'Can you please write comments for this SQL code: _____ctrl +v_____'
+<Data Dictionary> 'Can you give me a data dictionary for this dataset: __ctrl+v__'
+<Code Optimization> 'Can you optimize my python code: __ctrl+v__'
+<Dataset Analysis> Get code for specific segments, send to pandas df, what is most profitable, code to break up columns 
+

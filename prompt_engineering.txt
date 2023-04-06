@@ -31,3 +31,7 @@
 <Code Optimization> 'Can you optimize my python code: __ctrl+v__'
 <Dataset Analysis> Get code for specific segments, send to pandas df, what is most profitable, code to break up columns 
 
+----
+
+<Prompts v2>
+

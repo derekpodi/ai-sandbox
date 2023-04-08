@@ -1,4 +1,5 @@
 llama links for install and tips for best use:
 
-
+# LLama.cpp mmap 
+https://justine.lol/mmap/
 

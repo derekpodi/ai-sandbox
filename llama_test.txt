@@ -9,3 +9,5 @@ https://til.simonwillison.net/llms/llama-7b-m2
 #huggingFace llama
 https://huggingface.co/blog/stackllama
 
+#google doc for permission Meta
+

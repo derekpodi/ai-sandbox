@@ -5,3 +5,7 @@ https://justine.lol/mmap/
 
 #llama.cpp setup
 https://til.simonwillison.net/llms/llama-7b-m2
+
+#huggingFace llama
+https://huggingface.co/blog/stackllama
+

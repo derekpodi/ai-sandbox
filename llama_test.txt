@@ -10,4 +10,6 @@ https://til.simonwillison.net/llms/llama-7b-m2
 https://huggingface.co/blog/stackllama
 
 #google doc for permission Meta
+https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
 
+#

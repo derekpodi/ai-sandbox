@@ -15,4 +15,7 @@ https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
 #Llama Paper
 https://arxiv.org/abs/2302.13971
 
-#
+#Perplexity Measure
+https://huggingface.co/docs/transformers/perplexity
+
+

@@ -18,5 +18,6 @@ https://arxiv.org/abs/2302.13971
 #Perplexity Measure
 https://huggingface.co/docs/transformers/perplexity
 
-#
+#Llama Repo
+https://github.com/facebookresearch/llama/pull/73/files
 

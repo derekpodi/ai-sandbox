@@ -29,5 +29,3 @@ https://learngpt.com
 
 #Stability AI
 https://github.com/stability-AI/stableLM/
-
-#

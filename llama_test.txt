@@ -30,5 +30,8 @@ https://learngpt.com
 #Stability AI
 https://github.com/stability-AI/stableLM/
 
-#
+#GPT CTF
+https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/
+
+
 

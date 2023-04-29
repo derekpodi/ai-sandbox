@@ -36,7 +36,8 @@ https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/
 #Transformers
 https://e2eml.school/transformers.html
 
-#
+#>>cd llama.cpp 
+#>>make
 
 
 

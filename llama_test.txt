@@ -36,6 +36,7 @@ https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/
 #Transformers
 https://e2eml.school/transformers.html
 
+#Make Executable from github download
 #>>cd llama.cpp 
 #>>make
 #

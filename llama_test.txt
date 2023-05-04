@@ -39,7 +39,9 @@ https://e2eml.school/transformers.html
 #Make Executable from github download
 #>>cd llama.cpp 
 #>>make
-#
-#
+
+#Open Llama
+https://github.com/openlm-research/open_llama
+
 
 

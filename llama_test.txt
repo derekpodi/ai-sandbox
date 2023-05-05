@@ -1,4 +1,4 @@
-llama links for install and tips for best use:
+llama links for install and tips/articles for best use:
 
 # LLama.cpp mmap 
 https://justine.lol/mmap/
@@ -42,6 +42,10 @@ https://e2eml.school/transformers.html
 
 #Open Llama
 https://github.com/openlm-research/open_llama
+
+#
+
+
 
 
 

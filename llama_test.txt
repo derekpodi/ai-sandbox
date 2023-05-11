@@ -49,7 +49,9 @@ https://huggingface.co/replit/replit-code-v1-3b
 #Language Models to Explain neurons in language models
 https://openai.com/research/language-models-can-explain-neurons-in-language-models
 
-#
+#Google Bard
+https://bard.google.com/?hl=en
+
 
 
 

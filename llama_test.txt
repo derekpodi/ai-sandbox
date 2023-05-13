@@ -52,7 +52,8 @@ https://openai.com/research/language-models-can-explain-neurons-in-language-mode
 #Google Bard
 https://bard.google.com/?hl=en
 
-#
+#Bard Help
+https://support.google.com/bard/answer/13275745?hl=en
 
 
 #

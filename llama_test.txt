@@ -61,6 +61,7 @@ https://github.com/brexhq/prompt-engineering
 # LLM guidance
 https://news.ycombinator.com/item?id=35963936
 
-
+#SMOL
+https://news.ycombinator.com/item?id=35945467
 
 

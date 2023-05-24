@@ -67,6 +67,10 @@ https://news.ycombinator.com/item?id=35945467
 #Private Gpt
 https://github.com/imartinez/privateGPT
 
-#
+#RNN Transformers
+https://news.ycombinator.com/item?id=36038868
+
+
+
 
 

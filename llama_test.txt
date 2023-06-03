@@ -76,8 +76,8 @@ https://a16z.com/2023/05/25/ai-canon/
 #Safe AI
 https://news.ycombinator.com/item?id=36123082
 
-#
-
+#Open LLM Leaderboard
+https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
 
 #
 

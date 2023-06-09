@@ -85,3 +85,9 @@ https://platform.openai.com/docs/guides/gpt-best-practices
 #GGML - AI at the Edge
 https://news.ycombinator.com/item?id=36215651
 
+#Tokens Explained
+https://simonwillison.net/2023/Jun/8/gpt-tokenizers/
+
+
+
+

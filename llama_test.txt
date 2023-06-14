@@ -91,5 +91,8 @@ https://simonwillison.net/2023/Jun/8/gpt-tokenizers/
 #Build a GPT
 https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing
 
+#
+
+
 
 

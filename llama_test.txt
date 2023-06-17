@@ -94,7 +94,7 @@ https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sh
 #CUDA LLama
 https://github.com/ggerganov/llama.cpp/pull/1827
 
-#
+#Alpaca add on
 
 
 

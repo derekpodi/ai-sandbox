@@ -95,6 +95,7 @@ https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sh
 https://github.com/ggerganov/llama.cpp/pull/1827
 
 #Alpaca add on
+https://crfm.stanford.edu/2023/03/13/alpaca.html
 
 
 

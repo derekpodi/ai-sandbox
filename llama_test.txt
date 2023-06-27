@@ -100,7 +100,7 @@ https://crfm.stanford.edu/2023/03/13/alpaca.html
 #OpenLLM
 https://github.com/bentoml/OpenLLM
 
-#
-
+#Training Data - Running out of Road 
+https://news.ycombinator.com/item?id=36462282
 
 

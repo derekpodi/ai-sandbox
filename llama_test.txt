@@ -103,7 +103,9 @@ https://github.com/bentoml/OpenLLM
 #Training Data - Running out of Road 
 https://news.ycombinator.com/item?id=36462282
 
-#
-
+#GreatWork
+http://paulgraham.com/greatwork.html
+"Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising ones. This is how practically everyone who's done great work has done it, from painters to physicists.
+Steps two and four will require hard work."
 
 

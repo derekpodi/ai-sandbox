@@ -109,6 +109,7 @@ http://paulgraham.com/greatwork.html
 Steps two and four will require hard work."
 "One way to tell whether you're wasting time is to ask if you're producing or consuming."
 
-#
+#NotebookLm
+https://news.ycombinator.com/item?id=36697119
 
 

@@ -112,4 +112,7 @@ Steps two and four will require hard work."
 #NotebookLm
 https://news.ycombinator.com/item?id=36697119
 
+#Passkeys
+https://news.ycombinator.com/item?id=36712497
 
+#

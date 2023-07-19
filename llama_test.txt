@@ -118,4 +118,7 @@ https://news.ycombinator.com/item?id=36712497
 #Llama2
 https://news.ycombinator.com/item?id=36774627
 
+#Llama2 CLI
+https://news.ycombinator.com/item?id=36778041
+
 #

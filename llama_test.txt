@@ -121,4 +121,7 @@ https://news.ycombinator.com/item?id=36774627
 #Llama2 CLI
 https://news.ycombinator.com/item?id=36778041
 
+#GPT Over Time
+https://news.ycombinator.com/item?id=36781015
+
 #

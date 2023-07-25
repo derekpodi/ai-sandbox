@@ -130,6 +130,6 @@ https://news.ycombinator.com/item?id=36819906
 #Attention
 https://www.evanmiller.org/attention-is-off-by-one.html
 
-#LLMs
+#LLMs Primer - What we Know
 https://news.ycombinator.com/item?id=36860992
 

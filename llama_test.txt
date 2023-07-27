@@ -136,4 +136,6 @@ https://news.ycombinator.com/item?id=36860992
 #Google Bio-PaLM 
 https://news.ycombinator.com/item?id=36888948
 
+#S3 Design
+https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
 

@@ -133,3 +133,7 @@ https://www.evanmiller.org/attention-is-off-by-one.html
 #LLMs Primer - What we Know
 https://news.ycombinator.com/item?id=36860992
 
+#Google Bio-PaLM 
+https://news.ycombinator.com/item?id=36888948
+
+

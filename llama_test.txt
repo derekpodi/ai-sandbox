@@ -142,7 +142,7 @@ https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big
 #LeMUR LLM for Audio/Speech
 https://news.ycombinator.com/item?id=36900294
 
-#
+#Patterns for Building LLM-based Systems & Products
 https://news.ycombinator.com/item?id=36965993
 
 #

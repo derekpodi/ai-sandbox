@@ -145,6 +145,6 @@ https://news.ycombinator.com/item?id=36900294
 #Patterns for Building LLM-based Systems & Products
 https://news.ycombinator.com/item?id=36965993
 
-#
-
+#AudioCraft - Generative AI for Audio
+https://news.ycombinator.com/item?id=36972347
 

@@ -163,4 +163,7 @@ https://news.ycombinator.com/item?id=37806861
 #Replit Ai Model - Code completion
 https://news.ycombinator.com/item?id=37839696
 
+#Scroll Prize
+https://scrollprize.org/firstletters
+
 #

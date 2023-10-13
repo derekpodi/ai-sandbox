@@ -166,4 +166,5 @@ https://news.ycombinator.com/item?id=37839696
 #Scroll Prize
 https://scrollprize.org/firstletters
 
-#
+#LLM Finetune LoRA
+https://news.ycombinator.com/item?id=37870930

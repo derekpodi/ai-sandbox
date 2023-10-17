@@ -168,3 +168,7 @@ https://scrollprize.org/firstletters
 
 #LLM Finetune LoRA
 https://news.ycombinator.com/item?id=37870930
+
+#MemGPT
+https://github.com/cpacker/MemGPT
+

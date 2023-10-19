@@ -175,3 +175,7 @@ https://github.com/cpacker/MemGPT
 #ChatGPT System Prompts
 https://news.ycombinator.com/item?id=37879077
 
+#Write Mode 
+https://news.ycombinator.com/item?id=37911900
+
+

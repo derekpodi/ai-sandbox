@@ -180,3 +180,6 @@ https://news.ycombinator.com/item?id=37911900
 
 #Annas-Archive LLM Datasets
 https://annas-archive.org/llm
+
+#Wikipedia AI Citations
+https://news.ycombinator.com/item?id=37955658

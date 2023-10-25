@@ -183,3 +183,8 @@ https://annas-archive.org/llm
 
 #Wikipedia AI Citations
 https://news.ycombinator.com/item?id=37955658
+
+#Embeddings
+https://simonwillison.net/2023/Oct/23/embeddings/
+
+#

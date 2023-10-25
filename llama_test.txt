@@ -187,4 +187,7 @@ https://news.ycombinator.com/item?id=37955658
 #Embeddings
 https://simonwillison.net/2023/Oct/23/embeddings/
 
+#Python CLI
+https://simonwillison.net/2023/Sep/30/cli-tools-python/
+
 #

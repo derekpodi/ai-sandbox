@@ -192,3 +192,8 @@ https://simonwillison.net/2023/Sep/30/cli-tools-python/
 
 #Prompt Engineering Dall-E
 https://news.ycombinator.com/item?id=38031839
+
+#AI Forrest Sound
+https://news.ycombinator.com/item?id=38056841
+
+

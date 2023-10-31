@@ -196,4 +196,5 @@ https://news.ycombinator.com/item?id=38031839
 #AI Forrest Sound
 https://news.ycombinator.com/item?id=38056841
 
-
+#RedPajama AI 
+https://news.ycombinator.com/item?id=38077521

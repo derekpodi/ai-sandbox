@@ -198,3 +198,7 @@ https://news.ycombinator.com/item?id=38056841
 
 #RedPajama AI 
 https://news.ycombinator.com/item?id=38077521
+
+#PhinD Model vs GPT4
+https://news.ycombinator.com/item?id=38088538
+

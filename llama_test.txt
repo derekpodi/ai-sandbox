@@ -208,3 +208,7 @@ https://news.ycombinator.com/item?id=38110072
 #Llama-Test Github
 https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama
 
+#OpenAI New Models and Dev Products
+https://news.ycombinator.com/item?id=38166420
+
+

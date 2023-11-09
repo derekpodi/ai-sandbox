@@ -211,6 +211,6 @@ https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama
 #OpenAI New Models and Dev Products
 https://news.ycombinator.com/item?id=38166420
 
-#
-
+#GPT Web Vision
+https://news.ycombinator.com/item?id=38200308
 

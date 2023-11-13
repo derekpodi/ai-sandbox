@@ -222,3 +222,7 @@ https://news.ycombinator.com/item?id=38221552
 
 #Fast LLama2 Inference Edge
 https://www.secondstate.io/articles/fast-llm-inference/
+
+#GPT3.5 Finetune Summary - Chain of Destiny
+https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/
+

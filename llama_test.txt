@@ -232,3 +232,5 @@ https://github.com/microsoft/ML-For-Beginners
 #AI Draw - UI Drawn
 https://news.ycombinator.com/item?id=38288130
 
+#Open AI Safety Blog
+https://lilianweng.github.io/

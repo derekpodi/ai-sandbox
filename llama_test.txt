@@ -234,3 +234,7 @@ https://news.ycombinator.com/item?id=38288130
 
 #Open AI Safety Blog
 https://lilianweng.github.io/
+
+#OpenAI Developments
+https://news.ycombinator.com/item?id=38386487
+

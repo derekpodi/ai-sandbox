@@ -238,3 +238,7 @@ https://lilianweng.github.io/
 #OpenAI Developments
 https://news.ycombinator.com/item?id=38386487
 
+#Beej IPC Guide
+https://news.ycombinator.com/item?id=38427448
+
+#

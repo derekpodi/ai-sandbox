@@ -247,3 +247,5 @@ https://news.ycombinator.com/item?id=38448653
 #Llamafile
 https://news.ycombinator.com/item?id=38464057
 
+#Generative AI Beginning
+https://news.ycombinator.com/item?id=38405823

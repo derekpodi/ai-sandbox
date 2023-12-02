@@ -249,3 +249,7 @@ https://news.ycombinator.com/item?id=38464057
 
 #Generative AI Beginning
 https://news.ycombinator.com/item?id=38405823
+
+#O'Rieley Generative AI
+https://www.oreilly.com/radar/generative-ai-in-the-enterprise/
+

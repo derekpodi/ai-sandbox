@@ -253,3 +253,6 @@ https://news.ycombinator.com/item?id=38405823
 #O'Rieley Generative AI
 https://www.oreilly.com/radar/generative-ai-in-the-enterprise/
 
+#NN-SVG Viz for NN
+https://news.ycombinator.com/item?id=38516038
+

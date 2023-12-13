@@ -270,3 +270,6 @@ https://news.ycombinator.com/item?id=38556771
 
 #ELF File Program
 https://news.ycombinator.com/item?id=38588379
+
+#LLVM TableGen
+https://news.ycombinator.com/item?id=38620037

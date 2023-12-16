@@ -276,3 +276,6 @@ https://news.ycombinator.com/item?id=38620037
 
 #AI Schism
 https://news.ycombinator.com/item?id=38616888
+
+#Advances in ML
+https://news.ycombinator.com/item?id=38661296

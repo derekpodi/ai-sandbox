@@ -285,3 +285,6 @@ https://spectrum.ieee.org/cfet-intel-samsung-tsmc
 
 #Ventoy
 https://news.ycombinator.com/item?id=38672112
+
+#Open Source AI Knowledge Database
+https://github.com/casibase/casibase

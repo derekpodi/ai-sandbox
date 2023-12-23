@@ -288,3 +288,6 @@ https://news.ycombinator.com/item?id=38672112
 
 #Open Source AI Knowledge Database
 https://github.com/casibase/casibase
+
+#LLM Speed
+https://news.ycombinator.com/item?id=38733384

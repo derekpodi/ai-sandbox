@@ -300,3 +300,6 @@ https://news.ycombinator.com/item?id=38759877
 
 #ChatGPT DataSupport Limits
 https://news.ycombinator.com/item?id=38782678
+
+#NYTimes Legal ChatGPT
+https://news.ycombinator.com/item?id=38790255

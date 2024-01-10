@@ -318,3 +318,6 @@ https://news.ycombinator.com/item?id=38851533
 
 #Polars
 https://news.ycombinator.com/item?id=38920043
+
+#Python JIT 3.13
+https://news.ycombinator.com/item?id=38923741

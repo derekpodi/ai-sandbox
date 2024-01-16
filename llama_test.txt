@@ -327,3 +327,7 @@ https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-mac
 
 #Local LLM Smart Home Voice Assist
 https://news.ycombinator.com/item?id=38985152
+
+#PyTorch Vulnerability
+https://news.ycombinator.com/item?id=38969533
+

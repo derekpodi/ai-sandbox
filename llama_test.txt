@@ -333,3 +333,6 @@ https://news.ycombinator.com/item?id=38969533
 
 #Tiny ML
 https://news.ycombinator.com/item?id=39014866
+
+#Sleeper Agent LLMs
+https://news.ycombinator.com/item?id=38974802

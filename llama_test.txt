@@ -336,3 +336,6 @@ https://news.ycombinator.com/item?id=39014866
 
 #Sleeper Agent LLMs
 https://news.ycombinator.com/item?id=38974802
+
+#WhisperSpeech
+https://news.ycombinator.com/item?id=39036796

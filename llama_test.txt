@@ -345,3 +345,6 @@ https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive
 
 #US NationalParkSystem API
 https://news.ycombinator.com/item?id=39085830
+
+#Dump ROM GBA Sound Emulation
+https://news.ycombinator.com/item?id=39092505

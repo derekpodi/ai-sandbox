@@ -360,3 +360,6 @@ https://news.ycombinator.com/item?id=39172837
 
 #Software Learn about Learning
 https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext
+
+#Custom GPT vs Plugins
+https://news.ycombinator.com/item?id=39200149

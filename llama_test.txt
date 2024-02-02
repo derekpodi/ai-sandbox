@@ -363,3 +363,6 @@ https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-shoul
 
 #Custom GPT vs Plugins
 https://news.ycombinator.com/item?id=39200149
+
+#Starlink Beam
+https://news.ycombinator.com/item?id=39200323

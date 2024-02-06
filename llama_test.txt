@@ -370,3 +370,5 @@ https://news.ycombinator.com/item?id=39200323
 #Computer Network Security
 https://engineering.purdue.edu/kak/compsec/
 
+#Text to SQL Model
+https://news.ycombinator.com/item?id=39261486

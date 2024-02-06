@@ -372,3 +372,6 @@ https://engineering.purdue.edu/kak/compsec/
 
 #Text to SQL Model
 https://news.ycombinator.com/item?id=39261486
+
+#	Instruction-Based Image Editing via LLM
+https://news.ycombinator.com/item?id=39275314

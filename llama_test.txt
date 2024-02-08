@@ -375,3 +375,6 @@ https://news.ycombinator.com/item?id=39261486
 
 #	Instruction-Based Image Editing via LLM
 https://news.ycombinator.com/item?id=39275314
+
+#Better Call GPT
+https://news.ycombinator.com/item?id=39274918

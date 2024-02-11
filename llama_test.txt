@@ -384,3 +384,7 @@ https://ollama.ai/blog/openai-compatibility
 
 #Infrastructure Decisions
 https://news.ycombinator.com/item?id=39313623
+
+#Cloud Egress Costs
+https://getdeploying.com/reference/data-egress
+

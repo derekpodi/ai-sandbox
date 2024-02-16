@@ -390,3 +390,6 @@ https://getdeploying.com/reference/data-egress
 
 #Stable Cascade
 https://news.ycombinator.com/item?id=39360106
+
+#Sora OpenAI Video
+https://news.ycombinator.com/item?id=39386156

@@ -397,3 +397,6 @@ https://news.ycombinator.com/item?id=39386156
 #Magika AI File Type Identifier
 https://news.ycombinator.com/item?id=39391688
 
+#Representation Engineering Mistral-7B an Acid Trip 
+https://vgel.me/posts/representation-engineering/
+

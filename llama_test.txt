@@ -400,3 +400,7 @@ https://news.ycombinator.com/item?id=39391688
 #Representation Engineering Mistral-7B an Acid Trip 
 https://vgel.me/posts/representation-engineering/
 
+#Trends in ML
+https://news.ycombinator.com/item?id=39435320
+
+

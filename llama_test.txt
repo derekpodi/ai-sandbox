@@ -403,4 +403,6 @@ https://vgel.me/posts/representation-engineering/
 #Trends in ML
 https://news.ycombinator.com/item?id=39435320
 
+#Kagi SideKick AI for personal website
+https://news.ycombinator.com/item?id=39447041
 

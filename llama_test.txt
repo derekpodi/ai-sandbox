@@ -423,3 +423,6 @@ https://news.ycombinator.com/item?id=39511676
 
 #Bartoz Ciechanoski Articles
 https://ciechanow.ski/archives/
+
+#1-Bit LLM
+https://news.ycombinator.com/item?id=39535800

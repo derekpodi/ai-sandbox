@@ -430,3 +430,6 @@ https://news.ycombinator.com/item?id=39535800
 #C++ Codebase, Now What?
 https://news.ycombinator.com/item?id=39549486
 
+#Stable Diffusion Transparent Images
+https://news.ycombinator.com/item?id=39577164
+

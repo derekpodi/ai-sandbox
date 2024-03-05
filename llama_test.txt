@@ -433,3 +433,7 @@ https://news.ycombinator.com/item?id=39549486
 #Stable Diffusion Transparent Images
 https://news.ycombinator.com/item?id=39577164
 
+#Anthropic Claude 3
+https://news.ycombinator.com/item?id=39590666
+
+

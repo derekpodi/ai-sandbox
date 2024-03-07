@@ -442,3 +442,5 @@ https://news.ycombinator.com/item?id=39611111
 #LLM Startup Initial Training
 https://news.ycombinator.com/item?id=39609997
 
+#The Pile - Open Source Language Data Set
+https://news.ycombinator.com/item?id=39631516

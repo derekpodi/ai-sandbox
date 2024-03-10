@@ -447,3 +447,6 @@ https://news.ycombinator.com/item?id=39631516
 
 #Fine Tune 70B Language Model at Home
 https://news.ycombinator.com/item?id=39635483
+
+#Monodraw - text to diagram
+https://news.ycombinator.com/item?id=39651796

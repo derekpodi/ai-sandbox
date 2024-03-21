@@ -468,3 +468,7 @@ https://news.ycombinator.com/item?id=39733275
 
 #Google Start
 https://news.ycombinator.com/item?id=39756865
+
+#Transformer Google Attention Is All You Need
+https://news.ycombinator.com/item?id=39766170
+

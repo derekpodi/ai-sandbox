@@ -495,3 +495,7 @@ https://news.ycombinator.com/item?id=39895344
 
 #LLama On Cpu
 https://news.ycombinator.com/item?id=39890262
+
+#xz Timeline
+https://news.ycombinator.com/item?id=39902241
+

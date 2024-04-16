@@ -513,3 +513,6 @@ https://news.ycombinator.com/item?id=39974374
 
 #Quantum Algorithms for Lattice
 https://news.ycombinator.com/item?id=39998396
+
+#Visual Attention - Transformer Heart
+https://news.ycombinator.com/item?id=40035514

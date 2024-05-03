@@ -537,3 +537,6 @@ https://romeov.github.io/malicious_ip_addresses/malicious_ip_analysis.html
 
 #Stanford Cryptography
 https://news.ycombinator.com/item?id=40237745
+
+#Mullvad DNS Leak Article
+https://news.ycombinator.com/item?id=40247604

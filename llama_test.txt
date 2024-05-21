@@ -558,3 +558,6 @@ https://deepmind.google/technologies/veo/
 
 #Llama3 From Scratch
 https://news.ycombinator.com/item?id=40408880
+
+#Time Series PostgreSQL
+https://news.ycombinator.com/item?id=40417347

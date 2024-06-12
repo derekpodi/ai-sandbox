@@ -583,3 +583,6 @@ https://news.ycombinator.com/item?id=40592789
 #Open Source Mac Menu Bar - Ice
 https://news.ycombinator.com/item?id=40605532
 
+#Apple On Device Server 
+https://news.ycombinator.com/item?id=40639506
+

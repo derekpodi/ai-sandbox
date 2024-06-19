@@ -594,3 +594,7 @@ https://news.ycombinator.com/item?id=40680107
 
 #Hit Songwriter
 https://news.ycombinator.com/item?id=40662538
+
+#3D Gaussian Splatting as Markov Chain Monte Carlo 
+https://news.ycombinator.com/item?id=40719975
+

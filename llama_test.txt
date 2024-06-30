@@ -606,3 +606,6 @@ https://samcurry.net/hacking-millions-of-modems
 
 #Lessons I wished To Learn Teaching
 https://news.ycombinator.com/item?id=40808933
+
+#Goldman Sachs Python for Quant
+https://news.ycombinator.com/item?id=40831991

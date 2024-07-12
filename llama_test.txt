@@ -618,3 +618,7 @@ https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/
 
 #Aging Markers
 https://news.ycombinator.com/item?id=40919707
+
+#Engineering Financial Systems
+https://news.ycombinator.com/item?id=40933110
+

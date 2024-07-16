@@ -627,3 +627,6 @@ https://news.ycombinator.com/item?id=40950584
 
 #Geo Location
 https://news.ycombinator.com/item?id=40958458
+
+#CUDA on AMD GPUs
+https://news.ycombinator.com/item?id=40970560

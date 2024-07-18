@@ -633,3 +633,6 @@ https://news.ycombinator.com/item?id=40970560
 
 #Markdown Google Docs
 https://news.ycombinator.com/item?id=40982118
+
+#Panic at the Job Market
+https://matt.sh/panic-at-the-job-market

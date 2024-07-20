@@ -639,3 +639,6 @@ https://matt.sh/panic-at-the-job-market
 
 #SAP AI Vulernabilities
 https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security
+
+#Crowdstrike Outtage
+https://news.ycombinator.com/item?id=41002195

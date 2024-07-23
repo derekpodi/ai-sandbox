@@ -645,3 +645,6 @@ https://news.ycombinator.com/item?id=41002195
 
 #Mandiant Snowflake Leak Analysis
 https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion
+
+#eBPF Standard for Kernals
+https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html

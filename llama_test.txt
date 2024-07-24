@@ -648,3 +648,6 @@ https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-
 
 #eBPF Standard for Kernals
 https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html
+
+#Substack for Semiconductor
+https://www.asianometry.com/

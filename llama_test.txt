@@ -651,3 +651,6 @@ https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html
 
 #Substack for Semiconductor
 https://www.asianometry.com/
+
+#Gihub Security Risk
+https://news.ycombinator.com/item?id=41060102

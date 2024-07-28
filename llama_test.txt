@@ -654,3 +654,6 @@ https://www.asianometry.com/
 
 #Gihub Security Risk
 https://news.ycombinator.com/item?id=41060102
+
+#Reversing Computer Architecture
+https://0xinfection.github.io/reversing/

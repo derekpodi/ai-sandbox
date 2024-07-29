@@ -657,3 +657,6 @@ https://news.ycombinator.com/item?id=41060102
 
 #Reversing Computer Architecture
 https://0xinfection.github.io/reversing/
+
+#Debug Battery Design
+https://github.com/ionworks/how-to-debug-your-battery

@@ -663,3 +663,6 @@ https://github.com/ionworks/how-to-debug-your-battery
 
 #Hardware Design SNES
 https://news.ycombinator.com/item?id=41098141
+
+#Homebrew Audit
+https://news.ycombinator.com/item?id=41114839

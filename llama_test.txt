@@ -684,3 +684,6 @@ https://news.ycombinator.com/item?id=41205176
 
 #Non-Ivasive Blood Pressure Continuous
 https://news.ycombinator.com/item?id=41207182
+
+#Open Street Maps
+https://news.ycombinator.com/item?id=41214259
